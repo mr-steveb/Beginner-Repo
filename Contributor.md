@@ -75,9 +75,3 @@ Format
 ## [Harshad Rokade](https://github.com/harshad71)
 
 ## [Steven Bahnsen](https://github.com/mr-steveb)
-
-## [Grace Poblete](https://github.com/g-town)
-
-## [Paco and Kayla](https://github.com/food)
-
-## [Guzzy](https://github.com/guzman)
