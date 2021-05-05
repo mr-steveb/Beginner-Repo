@@ -81,4 +81,3 @@ Format
 ## [Paco and Kayla](https://github.com/food)
 
 ## [Guzzy](https://github.com/guzman)
-
